@@ -6,5 +6,5 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=SedatErdogan&show_icons=true&theme=radical) 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SedatErdogan&left_color=black&right_color=blue)
 
